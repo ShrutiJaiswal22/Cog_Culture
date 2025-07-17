@@ -1,0 +1,51 @@
+EmployeeNumber,Name,Department,Risk,Reason,Recommended Action,Status,JobSatisfaction
+1001,Aarav Mehta,Sales,Medium,Low engagement score,Assign mentor,Completed,4
+1002,Ishita Sharma,Finance,Medium,Falling KPIs,Encourage team bonding,Pending,4
+1003,Raghav Kapoor,Finance,Medium,Missed deadlines,Daily stand-ups,In Progress,4
+1004,Diya Nair,Sales,High,Consistent overtime,Flexible hours,In Progress,3
+1005,Siddharth Singh,Engineering,High,Falling KPIs,Flexible hours,Completed,5
+1006,Ananya Verma,Marketing,High,Low engagement score,Encourage team bonding,In Progress,3
+1007,Kunal Joshi,Engineering,Low,Missed deadlines,Daily stand-ups,Completed,5
+1008,Meera Desai,Sales,High,Falling KPIs,Daily stand-ups,In Progress,5
+1009,Tanmay Rao,Finance,Medium,Consistent overtime,Weekly check-ins,In Progress,5
+1010,Ritika Malhotra,Sales,Low,Missed deadlines,Encourage team bonding,Pending,1
+1011,Nikhil Bhatia,Finance,Medium,Recent absenteeism,Weekly check-ins,Pending,4
+1012,Sneha Menon,Engineering,High,Low engagement score,Flexible hours,In Progress,2
+1013,Arjun Yadav,Sales,High,Consistent overtime,Flexible hours,Completed,4
+1014,Pooja Sethi,Marketing,High,Recent absenteeism,Daily stand-ups,In Progress,4
+1015,Rahul Iyer,Engineering,Medium,Recent absenteeism,Flexible hours,In Progress,3
+1016,Naina Kapoor,Marketing,Medium,Consistent overtime,Encourage team bonding,In Progress,1
+1017,Abhishek Das,HR,High,Recent absenteeism,Daily stand-ups,In Progress,4
+1018,Kritika Roy,HR,Medium,Missed deadlines,Encourage team bonding,Pending,2
+1019,Manav Shah,Finance,Medium,Missed deadlines,Assign mentor,Completed,2
+1020,Swati Kulkarni,Sales,High,Consistent overtime,Flexible hours,In Progress,5
+1021,Dev Mehta,Marketing,Low,Low engagement score,Daily stand-ups,In Progress,1
+1022,Simran Kaur,Marketing,Medium,Recent absenteeism,Daily stand-ups,Pending,1
+1023,Yash Tiwari,Sales,High,Recent absenteeism,Encourage team bonding,Pending,4
+1024,Rhea Chatterjee,HR,High,Low engagement score,Assign mentor,In Progress,4
+1025,Neeraj Jain,Engineering,High,Low engagement score,Encourage team bonding,In Progress,4
+1026,Avni Sinha,Sales,High,Recent absenteeism,Weekly check-ins,Completed,4
+1027,Viraj Patil,Sales,Medium,Falling KPIs,Flexible hours,Pending,2
+1028,Tanya Bansal,Engineering,Medium,Consistent overtime,Flexible hours,Completed,3
+1029,Harshit Goel,HR,Low,Recent absenteeism,Daily stand-ups,Pending,3
+1030,Ira Sharma,Finance,Medium,Recent absenteeism,Encourage team bonding,Completed,4
+1031,Kabir Khanna,HR,Low,Missed deadlines,Assign mentor,In Progress,1
+1032,Lavanya Nair,Sales,Low,Falling KPIs,Assign mentor,Completed,4
+1033,Mayank Bhatt,Sales,Low,Missed deadlines,Flexible hours,In Progress,4
+1034,Palak Gupta,Marketing,Medium,Low engagement score,Weekly check-ins,In Progress,1
+1035,Reyansh Deshmukh,Engineering,High,Consistent overtime,Weekly check-ins,In Progress,5
+1036,Saanvi Reddy,Sales,Medium,Consistent overtime,Daily stand-ups,In Progress,2
+1037,Tushar Malhotra,Sales,High,Recent absenteeism,Daily stand-ups,Pending,3
+1038,Urvi Shah,Finance,High,Falling KPIs,Encourage team bonding,Completed,2
+1039,Veer Saxena,Engineering,Low,Consistent overtime,Daily stand-ups,Completed,3
+1040,Yamini Chauhan,Engineering,Low,Recent absenteeism,Flexible hours,Pending,1
+1041,Zaid Sheikh,Finance,Low,Falling KPIs,Flexible hours,In Progress,5
+1042,Bhavna Joshi,HR,Low,Falling KPIs,Weekly check-ins,Completed,2
+1043,Chirag Sood,Engineering,High,Recent absenteeism,Weekly check-ins,In Progress,5
+1044,Dhriti Agarwal,Finance,Low,Falling KPIs,Flexible hours,In Progress,3
+1045,Eshan Arora,Finance,Low,Falling KPIs,Flexible hours,In Progress,5
+1046,Fatima Qureshi,Engineering,Medium,Falling KPIs,Daily stand-ups,In Progress,3
+1047,Gaurav Pillai,Finance,Medium,Missed deadlines,Weekly check-ins,In Progress,2
+1048,Heena Lamba,Finance,High,Falling KPIs,Flexible hours,Pending,1
+1049,Imran Ali,Engineering,High,Low engagement score,Flexible hours,In Progress,1
+1050,Juhi Ghosh,Marketing,Medium,Recent absenteeism,Assign mentor,Pending,1
